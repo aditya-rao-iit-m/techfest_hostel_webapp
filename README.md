@@ -22,7 +22,7 @@ readme.txt: Instructions for users.
 index.html (optional): Form for file uploads (can be integrated into index.php).
 Usage
 
-Access the application through your web browser using the appropriate URL (e.g., http://localhost/room-allocation/index.php).
+Access the application through your web browser using the appropriate URL (e.g., http://localhost/room-allocation/index.html,upload.php).
 Upload Files
 
 Click on the "Choose File" buttons to upload the following CSV files:
