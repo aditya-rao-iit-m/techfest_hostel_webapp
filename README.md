@@ -1,18 +1,21 @@
 # TechFest'24 - IIT Bombay Hostel Allocation WebApp
 
-A WebApp and Algorithm to manage the TechFest'24 Hostel Allocation process
+##A WebApp and Algorithm to manage the TechFest'24 Hostel Allocation process
 
 Room Allocation Web Application
-Overview
+PHP and HTML
+
+## Overview
 This web application facilitates the digitalization of the hospitality process for group accommodation. It allows users to upload two CSV files containing group information and hostel room details, respectively. The application then allocates rooms based on specified criteria and generates an output CSV file with allocation details.
 
 ## Instructions
 
-Requirements
+###Requirements
 
 Web server with PHP support (PHP 5.6+ recommended).
 Modern web browser.
-Installation
+
+###Installation
 
 Download or clone the repository to your local environment or web server directory.
 File Structure
@@ -26,7 +29,7 @@ Usage
 Access the application through your web browser using the appropriate URL (e.g., http://localhost/room-allocation/index.html,upload.php).
 Upload Files
 
-Process:
+###Process:
 
 Click on the "Choose File" buttons to upload the following CSV files:
 File 1 (Group Information): Contains details about groups with a common ID, number of members, and gender.
@@ -47,7 +50,7 @@ Notes
 Ensure the CSV files are correctly formatted as per the provided examples (file1.csv and file2.csv).
 Verify that the CSV files do not contain headers or extra rows that could interfere with the processing.
 
-Result:
+###Result:
 
 Once processing is complete, the application generates an output CSV file (room_allocations.csv) containing the following details:
 Group ID
