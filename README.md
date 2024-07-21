@@ -44,11 +44,11 @@ Room Number
 Number of Members Allocated
 Download Results
 
-The output CSV file will automatically download or prompt for download depending on your browser settings.
-Check your browser's download location for the file (room_allocations.csv).
+The output CSV file will automatically download or prompt for download depending on the browser settings.
+Check the browser's download location for the file (room_allocations.csv).
 Notes
 
-Ensure your CSV files are correctly formatted as per the provided examples (file1.csv and file2.csv).
-Verify that your CSV files do not contain headers or extra rows that could interfere with the processing.
+Ensure the CSV files are correctly formatted as per the provided examples (file1.csv and file2.csv).
+Verify that the CSV files do not contain headers or extra rows that could interfere with the processing.
 Support
 
